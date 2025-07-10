@@ -33,14 +33,8 @@ A comprehensive Electronic Health Records (EHR) system designed specifically for
 ```bash
 git clone https://github.com/yourusername/ehr-system.git
 cd ehr-system
-
-Install dependencies:
-
-bashnpm install
-
-Start the development server:
-
-bashnpm start
+npm install
+npm start
 
 Open http://localhost:3000 to view it in the browser.
 
@@ -62,6 +56,7 @@ Email: tech@example.com
 Password: tech123
 
 Project Structure
+
 ehr-system/
 ├── public/
 │   ├── index.html
